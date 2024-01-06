@@ -1,0 +1,37 @@
+[
+    {
+        "profilePic": "./assets/user1.svg",
+        "name": "Jane Doe",
+        "email": "alice@example.com",
+        "age": "30 years old",
+        "info": "Alice is a skilled software developer with expertise in designing and implementing robust applications. Her passion for coding and problem-solving contributes to creating efficient and innovative solutions in the software development landscape."
+    },
+    {
+        "profilePic": "./assets/user2.svg",
+        "name": "John Smith",
+        "email": "john@example.com",
+        "age": "25 years old",
+        "info": "John is an experienced front-end developer with a strong background in creating interactive and user-friendly web interfaces. He is dedicated to staying updated with the latest web technologies."
+    },
+    {
+        "profilePic": "./assets/user3.svg",
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "age": "28 years old",
+        "info": "Bob is a passionate back-end developer specializing in building scalable and secure server-side applications. His attention to detail and problem-solving skills contribute to the success of complex projects."
+    },
+    {
+        "profilePic": "./assets/user4.svg",
+        "name": "Eva Williams",
+        "email": "eva@example.com",
+        "age": "32 years old",
+        "info": "Eva is a full-stack developer known for her versatility in both front-end and back-end technologies. She enjoys collaborating with cross-functional teams to deliver high-quality software solutions."
+    },
+    {
+        "profilePic": "./assets/user5.svg",
+        "name": "Michael Brown",
+        "email": "michael@example.com",
+        "age": "27 years old",
+        "info": "Michael is a creative UI/UX designer with a keen eye for detail. His designs focus on delivering seamless and visually appealing user experiences. He constantly seeks inspiration from various design trends."
+    }
+]
