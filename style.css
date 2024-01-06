@@ -1,7 +1,7 @@
 div.users-container {
+    height: 100%;
     display: flex;
     flex-wrap: wrap;
-    padding: 30px 350px 0px 350px;
     align-items: center;
     align-self: center;
     justify-content: center;
